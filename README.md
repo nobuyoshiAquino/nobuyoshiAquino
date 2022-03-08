@@ -11,6 +11,9 @@ But sometimes, it's just hard to go outside and enjoy the rest of the day when t
  - I'm interested in learning about the fundamentals of blockchain. So I thought it would be a nice chance to write my first post about it. "*Learn through teaching*".  
  - I'm re-learning math with Brilliant. :game_die:  
 
+ ### Where to find me
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobuyoshi-aquino/)  
+
 <!--
 **nobuyoshiAquino/nobuyoshiAquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
