@@ -1,10 +1,13 @@
 ### Hi, I'm Nobu.
+I'm a software developer...
 
-I'm a software developer who likes simple programs.  
+Unfortunately, I can't brag about being an Amiga or Commodore64 wizard as a kid. But, I was a humble Encarta 97' enjoyer :joy:  
+Back then, I spent hours in front of the family PC. I still spend a lot of time on my computer, but at least I'm conscious about it now. Some things never change...  right?   
+<br />
 
-I constantly had to remind myself that computers and programs are tools.  
-They should help us in our daily tasks and enhance our quality of life: *nothing more, nothing less*.  
-But sometimes, it's just hard to go outside and enjoy the rest of the day when there are so many things to discover in the vast sea of the Internet. :boat:  
+*Until they do.*  
+
+To be continue :arrow_right:  
 
 ### What am I up to now?
  - I'm currently learning Rust and Substrate framework. :crab: Check my [Kitties](https://github.com/nobuyoshiAquino/ic-kitties) repository and my [notes](https://github.com/nobuyoshiAquino/ic-kitties/blob/main/my-notes.md) on building this project.  
