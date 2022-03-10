@@ -7,7 +7,7 @@ Back then, I spent hours in front of the family PC. I still spend a lot of time 
 
 *Until they do.*  
 
-To be continue :arrow_right:  
+To be continued :arrow_right:  
 
 ### What am I up to now?
  - I'm currently learning Rust and Substrate framework. :crab: Check my [Kitties](https://github.com/nobuyoshiAquino/ic-kitties) repository and my [notes](https://github.com/nobuyoshiAquino/ic-kitties/blob/main/my-notes.md) on building this project.  
