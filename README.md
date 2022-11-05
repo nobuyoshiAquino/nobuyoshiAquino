@@ -5,10 +5,6 @@ Unfortunately, I can't brag about being an Amiga or Commodore64 wizard as a kid.
 Back then, I spent hours in front of the family PC. I still spend a lot of time on my computer, but at least I'm conscious about it now. Some things never change...  right?   
 <br />
 
-*Until they do.*  
-
-To be continued :arrow_right:  
-
 ### What am I up to now?
  - I'm currently learning Rust and Substrate framework. :crab: Check my [Kitties](https://github.com/nobuyoshiAquino/ic-kitties) repository and my [notes](https://github.com/nobuyoshiAquino/ic-kitties/blob/main/my-notes.md) on building this project.  
  - I'm interested in learning about the fundamentals of blockchain. So I thought it would be a nice chance to write my first post about it. "*Learn through teaching*".  
